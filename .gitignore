@@ -1,7 +1,13 @@
 .DS_Store
 .snakemake
 .cache
-plot
+plot/dataset
+plot/gw1
+plot/gw2
+plot/qgw
+plot/merged_gw
+plot/merged_qgw
+plot/guidedpls
 output
 logs
 benchmarks
