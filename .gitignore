@@ -1,0 +1,8 @@
+.DS_Store
+.snakemake
+.cache
+plot
+output
+logs
+benchmarks
+data
